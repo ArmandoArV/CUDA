@@ -1,0 +1,1 @@
+﻿D:\cuda_practicas\CUDA1\CUDA1\CUDA1.vcxproj(33,5): error MSB4019: No se encontró el proyecto "D:\VSTUDIO2022\MSBuild\Microsoft\VC\v170\BuildCustomizations\CUDA 12.3.props" importado. Confirme que la expresión de la declaración Import "D:\VSTUDIO2022\MSBuild\Microsoft\VC\v170\\BuildCustomizations\CUDA 12.3.props" es correcta y que el archivo existe en el disco.

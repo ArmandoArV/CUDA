@@ -1,0 +1,6 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  D:\cuda_practicas\Cuadratica\SumTwoArrays\SumTwoArrays>"D:\NVIDIA\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "D:\VSTUDIO2022\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64" -x cu   -ID:\NVIDIA\include -ID:\NVIDIA\include  -G   --keep-dir x64\Debug  -maxrregcount=0   --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/Fdx64\Debug\vc143.pdb" -o D:\cuda_practicas\Cuadratica\SumTwoArrays\SumTwoArrays\x64\Debug\kernel.cu.obj "D:\cuda_practicas\Cuadratica\SumTwoArrays\SumTwoArrays\kernel.cu" 
+  kernel.cu
+  tmpxft_000029b0_00000000-7_kernel.cudafe1.cpp
+  SumTwoArrays.vcxproj -> D:\cuda_practicas\Cuadratica\SumTwoArrays\x64\Debug\SumTwoArrays.exe
